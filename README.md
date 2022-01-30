@@ -30,4 +30,4 @@ Step4. Try another way to solve the problem
 1.	I did different regression line and plot p-value, R, R2, in the graph.
 2.	Every air pollution index has negative correlation with respiratory diseases. Only PM total, PM 2.5, SO2 have the higher R2.(It is higher than 0.75)
 3.	The standard error is too high for these three data, so I cannot explain the less air pollution cause the less respiratory diseases.
-4.	We need more data and other research to make sure it is true.
+4.	At the end, the correlation between respiratory and air pollution index is nearly zero. There is no significant effect between air pollution and respiratory.
