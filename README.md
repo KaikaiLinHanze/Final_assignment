@@ -8,13 +8,14 @@ dataset
 
 Requirement
 ---
-scipy
-pandas
-numpy
-functools
-bokeh
-matplotlib
-seaborn
+scipy,
+pandas,
+numpy,
+functools,
+bokeh,
+matplotlib,
+seaborn,
+jupyter notebook,
 statsmodels
 
 Step1. Load the data:
