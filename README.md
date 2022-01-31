@@ -15,7 +15,7 @@ functools
 bokeh
 matplotlib
 seaborn
-
+statsmodels
 
 Step1. Load the data:
 ---
