@@ -25,9 +25,10 @@ Step1. Load the data:
 Step2. Check the missing data and interpolate:
 ---
 1.	Interpolate missing by properly method :
+
 air pollution by linear interpolation https://machinelearningmastery.com/resample-interpolate-time-series-data-python/
-cause of death by cubic spline
-https://rdo.psu.ac.th/sjstweb/journal/36-2/36-2-15.pdf
+
+cause of death by cubic spline https://rdo.psu.ac.th/sjstweb/journal/36-2/36-2-15.pdf
 2.	Define the independent variable and dependent variable.
 3.	Combine all cause of death that is related to respiratory and change to percentage. (The total of death is different. Use percentage will be better for the changing of the number.)
 4.	Create a heatmap to check for correlations among variables. (by bokeh and seaborn)
