@@ -55,3 +55,7 @@ Step4. Try another way to solve the problem
 Contact
 ---
 kaikailin0707@gmail.com
+
+License
+---
+MIT
